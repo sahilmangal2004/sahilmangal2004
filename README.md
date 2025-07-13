@@ -28,9 +28,9 @@
 
 <table>
   <tr>
-      <td><a href="https://github.com/monk0707"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://www.linkedin.com/in/arvind-sharma-3884a2205/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-    <td><a href="mailto:arvindsh0707@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+      <td><a href="https://github.com/sahilmangal2004"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://leetcode.com/u/paLQ8wE6cA/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:sahilmangal2004@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
 </table>
 
@@ -38,11 +38,18 @@
 
 ## About
 
-- I am a junior undergraduate Computer Science student at NIT Bhopal.
-- I love to work on new technologies and try to be as adaptable as possible. (We can do anything, Believe it!)
-- I'm pretty good in problem solving [DSA Stats](https://codolio.com/profile/monk0707)
-- 💬 Feel free to ask me anything related to Computer Science!
+I’m a junior undergraduate at NIT Bhopal with a passion for both data analytics and software development. I thrive on solving problems—whether through code or by extracting insights from data—and love working with new technologies. I’m adaptable, curious, and always ready to learn.
+“We can do anything, believe it!”
 
+- 👨‍💻 Strong in DSA and competitive programming – DSA Stats
+
+- 📊 Experienced in building insightful dashboards using Power BI, Excel, SQL, and Python
+
+- 🛠️ Skilled in Python, SQL, MySQL, PostgreSQL, and full-stack tools
+
+- 🚀 Delivered real-world impact through internships in both data and marketing analytics
+
+- 💬 Open to challenges in both Data Analysis and Software Engineering
 ## Work Experience
 
 
