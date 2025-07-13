@@ -41,7 +41,7 @@
 I’m a junior undergraduate at NIT Bhopal with a passion for both data analytics and software development. I thrive on solving problems—whether through code or by extracting insights from data—and love working with new technologies. I’m adaptable, curious, and always ready to learn.
 “We can do anything, believe it!”
 
-- 👨‍💻 Strong in DSA and competitive programming – DSA Stats
+- 👨‍💻 Strong in DSA and competitive programming – [DSA Stats](https://codolio.com/profile/Gabru)
 
 - 📊 Experienced in building insightful dashboards using Power BI, Excel, SQL, and Python
 
@@ -55,10 +55,11 @@ I’m a junior undergraduate at NIT Bhopal with a passion for both data analytic
 
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Google](https://www.google.co.in/) | Upcoming SWE Intern | May 2025 - Aug 2025 |
-| [Alchemyst AI](https://getalchemystai.com/) | SDE Intern | Nov 2024 - Dec 2024 |
-| [Reliance Foundation]([https://www.linkedin.com/company/finessefleet/](https://rfugscholar.reliancefoundation.org/profile?source=header)) | Mentor | Feb 2024 - Present |
+| [Forethought India](https://www.forethought.co.in/byo) | Data Analysis | May 2022 – June 2022 |
+| [WizMeet](https://getalchemystai.com/) | Marketing Analyst Intern | May 2023 – June 2023 |
+| [Forethought India](https://www.forethought.co.in/byo) | Operational Intern | May 2024 - June 2024 |
 | Zenith - The programming club of MANIT | Core Member | Nov 2023 - Present |
+| ChESA - The Chemical society of MANIT | President | Aug 2023 - Present |
 
 ## Languages Tools and Technologies 🚀 
 
@@ -90,7 +91,7 @@ I’m a junior undergraduate at NIT Bhopal with a passion for both data analytic
 ## Github Stats
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monk0707)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahilmangal2004)](https://git.io/streak-stats)
 
 ## Virtual Experience
 
