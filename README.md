@@ -6,7 +6,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=	9B59B6&width=600&height=70&lines=Hey+There+👋,+I'm+Sahil+Mangal;A+Passionate+Software+Developer+💻;A+Curious+Data+Analyst+📊;Love+Exploring+Distributed+Systems+🌐;Building+Clean+and+Scalable+Tech+🛠️;Always+Learning+and+Solving+Problems+📚">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&width=600&height=70&lines=Hey+There+👋,+I'm+Sahil+Mangal;A+Passionate+Software+Developer+💻;A+Curious+Data+Analyst+📊;Love+Exploring+Distributed+Systems+🌐;Building+Clean+and+Scalable+Tech+🛠️;Always+Learning+and+Solving+Problems+📚">
 </p>
 
 
