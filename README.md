@@ -1,20 +1,21 @@
 
 
 <!--
-**monk0707/monk0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sahilmangal2004/sahilmangal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Arvind+Sharma;+A+Software+Developer+🌟;A+Competitive+Programmer+💻;A+Distributed+Systems+Fan+🌐;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E44AD&width=600&height=70&lines=Hey+There+👋,+I'm+Sahil+Mangal;A+Passionate+Software+Developer+💻;A+Curious+Data+Analyst+📊;Love+Exploring+Distributed+Systems+🌐;Building+Clean+and+Scalable+Tech+🛠️;Always+Learning+and+Solving+Problems+📚">
 </p>
+
 
 
 <div align="center">
 
 ---
 
-<span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/u/Arvind_Sharma/)</span>
+<span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/u/paLQ8wE6cA/)</span>
 <span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@starkarvind1)</span>
 <span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
 <span>[<kbd> <br> Github Stats <br> </kbd>](#Github-Stats)</span>
