@@ -1,76 +1,96 @@
-<h1 align="center">A Competitive Programmer 💻</h1>
+
+
+<!--
+**monk0707/monk0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#work-experience">Work Experience</a> •
-  <a href="#virtual-experience">Virtual Experience</a> •
-  <a href="#languages-tools-and-technologies-">Languages & Tools</a> •
-  <a href="#github-stats">GitHub Stats</a> •
-  <a href="#️-dev-quote">Quotes</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Arvind+Sharma;+A+Software+Developer+🌟;A+Competitive+Programmer+💻;A+Distributed+Systems+Fan+🌐;">
 </p>
 
----
 
-### About
-
-- 🎓 Junior CSE Student at **NIT Bhopal**
-- ⚡ Passionate about tech, dev, and problem-solving
-- 💡 [DSA Stats](https://leetcode.com/YOUR_USERNAME)
-- 💬 Ask me anything related to tech
+<div align="center">
 
 ---
 
-### Work Experience
+<span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/u/Arvind_Sharma/)</span>
+<span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@starkarvind1)</span>
+<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
+<span>[<kbd> <br> Github Stats <br> </kbd>](#Github-Stats)</span>
+<span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
 
-| 🏢 Company/Org | 💼 Role | 🕒 Duration |
-|---------------|--------|------------|
-| [Google](https://careers.google.com/) | Upcoming SWE Intern | May 2025 - Aug 2025 |
-| [Alchemyst AI](https://alchemyst.ai/) | SDE Intern | Nov 2024 - Dec 2024 |
-| Reliance Foundation | Mentor | Feb 2024 - Present |
-| Zenith - MANIT | Core Member | Nov 2023 - Present |
+<span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-tools-and-technologies-)</span>
+<span>[<kbd> <br> Quotes I Like <br> </kbd>](#%EF%B8%8F-dev-quote)</span>
 
 ---
 
-### Virtual Experience
+<table>
+  <tr>
+      <td><a href="https://github.com/monk0707"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://www.linkedin.com/in/arvind-sharma-3884a2205/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:arvindsh0707@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+</div>
+
+## About
+
+- I am a junior undergraduate Computer Science student at NIT Bhopal.
+- I love to work on new technologies and try to be as adaptable as possible. (We can do anything, Believe it!)
+- I'm pretty good in problem solving [DSA Stats](https://codolio.com/profile/monk0707)
+- 💬 Feel free to ask me anything related to Computer Science!
+
+## Work Experience
+
+
+| 🏢 Company/Org | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Google](https://www.google.co.in/) | Upcoming SWE Intern | May 2025 - Aug 2025 |
+| [Alchemyst AI](https://getalchemystai.com/) | SDE Intern | Nov 2024 - Dec 2024 |
+| [Reliance Foundation]([https://www.linkedin.com/company/finessefleet/](https://rfugscholar.reliancefoundation.org/profile?source=header)) | Mentor | Feb 2024 - Present |
+| Zenith - The programming club of MANIT | Core Member | Nov 2023 - Present |
+
+## Languages Tools and Technologies 🚀 
+
+
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,vite" ></td>
+</tr>
+<tr>
+	<td><strong>Design & UI</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,notion&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+
+</table>
+
+## Github Stats
+
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monk0707)](https://git.io/streak-stats)
+
+## Virtual Experience
+
 
 | 🏢 Company | 💼 Role |
-|-----------|---------|
-| [JP Morgan Chase & Co.](https://careers.jpmorgan.com/) | Software Engineering |
+| --- | --- |
+| [JP Morgan Chase & Co.](https://drive.google.com/file/d/1ggF3asQsQmqfDBZvbqL71qzOQS4pvFAU/view?usp=drive_link) | Software Engineering |
 
----
 
-### 🖋️ Dev Quote
-
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?quote=The%20separation%20of%20architectural%20effort%20from%20implementation%20is%20a%20very%20powerful%20way%20of%20getting%20conceptual%20integrity%20on%20very%20large%20projects.&author=Fred%20Brooks&theme=dark" />
-</p>
-
----
-
-### 🚀 Languages Tools and Technologies
-
-| Category | Tools |
-|----------|-------|
-| **Programming Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) |
-| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **Design & UI** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monk0707&theme=orange" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/monk0707"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
