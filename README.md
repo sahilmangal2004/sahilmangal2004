@@ -6,7 +6,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E44AD&width=600&height=70&lines=Hey+There+👋,+I'm+Sahil+Mangal;A+Passionate+Software+Developer+💻;A+Curious+Data+Analyst+📊;Love+Exploring+Distributed+Systems+🌐;Building+Clean+and+Scalable+Tech+🛠️;Always+Learning+and+Solving+Problems+📚">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=	9B59B6&width=600&height=70&lines=Hey+There+👋,+I'm+Sahil+Mangal;A+Passionate+Software+Developer+💻;A+Curious+Data+Analyst+📊;Love+Exploring+Distributed+Systems+🌐;Building+Clean+and+Scalable+Tech+🛠️;Always+Learning+and+Solving+Problems+📚">
 </p>
 
 
@@ -90,8 +90,8 @@
 
 | 🏢 Company | 💼 Role |
 | --- | --- |
-| [JP Morgan Chase & Co.](https://drive.google.com/file/d/1ggF3asQsQmqfDBZvbqL71qzOQS4pvFAU/view?usp=drive_link) | Software Engineering |
+| [Forethought India](https://drive.google.com/file/d/1-iOWmy3WoEfaCEwe4Jb2d_fLG-ER4IYj/view?usp=sharing) | Data Analyst |
 
 
 ## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://i.pinimg.com/736x/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.jpg)
